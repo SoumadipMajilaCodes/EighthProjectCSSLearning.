@@ -63,4 +63,3 @@ This project is intended for educational purposes to practice HTML and CSS.
 
 ---
 
-Feel free to customize this template further to suit your project! 😊
